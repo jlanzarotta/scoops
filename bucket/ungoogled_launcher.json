@@ -1,0 +1,15 @@
+{
+    "version": "2025.10.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jlanzarotta/ungoogled_launcher/releases/download/2025.10.0/ungoogled_launcher_Windows_x86_64.zip",
+            "bin": [
+                "ungoogled_launcher.exe"
+            ],
+            "hash": "b024c85ad1f8f46fb516499471c9c66b447cb51754daa56c364846af109a11bd"
+        }
+    },
+    "homepage": "https://github.com/jlanzarotta/ungoogled_launcher",
+    "license": "BSD-3-Clause",
+    "description": "A Chromium launcher/updater written in Go."
+}
