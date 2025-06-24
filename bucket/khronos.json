@@ -1,0 +1,18 @@
+{
+    "version": "2025.35.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jlanzarotta/khronos/releases/download/2025.35.0/khronos_Windows_x86_64.zip",
+            "bin": [
+                "khronos.exe"
+            ],
+            "hash": "e85ae78705f538e4a510a1159ffa8a8405284b36163db613dde721211a1121dd"
+        }
+    },
+    "homepage": "https://github.com/jlanzarotta/scoops",
+    "license": "BSD-3-Clause",
+    "description": "Simple time tracker written in Go.",
+    "depends": [
+        "git"
+    ]
+}
