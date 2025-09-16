@@ -1,0 +1,15 @@
+{
+    "version": "2025.16.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jlanzarotta/unchrome_launcher/releases/download/2025.16.0/unchrome_launcher_Windows_x86_64.zip",
+            "bin": [
+                "unchrome_launcher.exe"
+            ],
+            "hash": "e094ca54e715429201489d992e0f3d1afd1939ec65f56971c811b4f3248f6101"
+        }
+    },
+    "homepage": "https://github.com/jlanzarotta/unchrome_launcher",
+    "license": "BSD-3-Clause",
+    "description": "A Chromium launcher/updater written in Go."
+}
