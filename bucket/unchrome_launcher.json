@@ -1,12 +1,12 @@
 {
-    "version": "2025.17.0",
+    "version": "2025.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/unchrome_launcher/releases/download/2025.17.0/unchrome_launcher_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/unchrome_launcher/releases/download/2025.18.0/unchrome_launcher_Windows_x86_64.zip",
             "bin": [
                 "unchrome_launcher.exe"
             ],
-            "hash": "1c91812730e59add0078ec8c43d0d5402c0e0781ccd333f87dd510f6d404a4aa"
+            "hash": "99a342e385baa8d8805362213eaec6029a71efaa014ec757c25c369114327506"
         }
     },
     "homepage": "https://github.com/jlanzarotta/unchrome_launcher",
