@@ -1,12 +1,12 @@
 {
-    "version": "2026.13.13",
+    "version": "2026.13.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/khronos/releases/download/2026.13.13/khronos_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/khronos/releases/download/2026.13.14/khronos_Windows_x86_64.zip",
             "bin": [
                 "khronos.exe"
             ],
-            "hash": "4262067b4e1a56399833586f3d312f1a747e983b450a40369574d2694adab8b5"
+            "hash": "6e6a9db7da685f351aa47be8229e35e2d7352949f5d9f394f4670da337bcc3e0"
         }
     },
     "homepage": "https://github.com/jlanzarotta/khronos",
