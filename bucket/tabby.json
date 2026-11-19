@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jlanzarotta/tabby/releases/download/1.0.0/tabby_Windows_x86_64.zip",
+            "bin": [
+                "tabby.exe"
+            ],
+            "hash": "6ada0ee830c34b49b99010ffcbf2d893db692cf01be2ac62662758beb26b6be6"
+        }
+    },
+    "homepage": "https://github.com/jlanzarotta/tabby",
+    "license": "BSD-3-Clause",
+    "description": "Tabby is fuzzy tab completer for your shell history. It learns the commands you run successfully and brings them back with a few keystrokes and the Tab key.",
+    "depends": [
+        "git"
+    ]
+}
