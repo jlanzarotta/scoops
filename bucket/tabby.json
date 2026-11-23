@@ -1,12 +1,12 @@
 {
-    "version": "2026.1.0",
+    "version": "2026.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/tabby/releases/download/2026.1.0/tabby_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/tabby/releases/download/2026.2.0/tabby_Windows_x86_64.zip",
             "bin": [
                 "tabby.exe"
             ],
-            "hash": "ef7832b64a76f5bf5345d727de6ee0e5a8881c2dbe459a51aa36ecf636f04c23"
+            "hash": "979e0d6f8d3c24a6ad3d0485df788f2d216c2ab0fe19cb5d11818ef16e5ddc31"
         }
     },
     "homepage": "https://github.com/jlanzarotta/tabby",
